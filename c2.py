@@ -5,8 +5,8 @@ from xtracer import Tracer
 from fbchat import log, Client
 from fbchat.models import *
 
-em = '' #email
-ps = '' #password
+em = 'duckssheet@chapsmail.com' #email
+ps = 'kali1291' #password
 
 class Quinn(Client):
     thread_type = 'GROUP'
